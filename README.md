@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @perseus369
 - 👀 I’m interested in blockchain,economics,philosophy,decentralized development
-- 🌱 I’m currently learning solidity and javascript
+- 🌱 I’m currently learning solidity, python and javascript
 - 💞️ I’m looking to collaborate on smartcontracts and tokens
 - 📫 How to reach me @persues369@proton.me
 
